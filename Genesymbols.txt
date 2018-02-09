@@ -1,0 +1,10 @@
+MYD88	human
+RAD51	human
+cftr	Danio rerio
+PPP2R5A	Mus musculus
+BRCA2	Gorilla gorilla
+MAN1A1	Sus scrofa
+wg	Drosophila melanogaster
+RAD1	Gallus gallus
+MYO5A	Homo sapiens
+IL6	Homo sapiens
